@@ -11,7 +11,7 @@
 
 ## 01: Prototipo 1.
 ### Link del proyecto
-<a href="https://github.com/JMSASanchezUwU/CreacionDeVideoJuegos/blob/main/prototipo1.unitypackage">
+<a href="https://github.com/creacionvideojuego/desafios/blob/main/prototipo_1.unitypackage">
     <img src="https://cdn-icons-png.flaticon.com/128/733/733553.png" alt="GitHub" width="40"/>
 </a>
 
@@ -24,7 +24,7 @@
 
 ## 02: Prototipo 2.
 ### Link del proyecto
-<a href="https://github.com/JMSASanchezUwU/CreacionDeVideoJuegos/blob/main/Prototipo%202.unitypackage">
+<a href="https://github.com/creacionvideojuego/desafios/blob/main/prototipo_2.unitypackage">
     <img src="https://cdn-icons-png.flaticon.com/128/733/733553.png" alt="GitHub" width="40"/>
 </a>
 
@@ -39,7 +39,7 @@
 
 ## 03: Prototipo 3.
 ### Link del proyecto
-<a href="">
+<a href="https://github.com/creacionvideojuego/desafios/blob/main/prototipo_3.unitypackage">
     <img src="https://cdn-icons-png.flaticon.com/128/733/733553.png" alt="GitHub" width="40"/>
 </a>
 
@@ -55,7 +55,7 @@
 
 ## 04: Prototipo 4.
 ### Link del proyecto
-<a href="">
+<a href="https://github.com/creacionvideojuego/desafios/blob/main/prototipo_4.unitypackage">
     <img src="https://cdn-icons-png.flaticon.com/128/733/733553.png" alt="GitHub" width="40"/>
 </a>
 
@@ -71,7 +71,7 @@
 
 ## 05: Prototipo 5.
 ### Link del proyecto
-<a href="">
+<a href="https://github.com/creacionvideojuego/desafios/blob/main/prototipo_5.unitypackage">
     <img src="https://cdn-icons-png.flaticon.com/128/733/733553.png" alt="GitHub" width="40"/>
 </a>
 
