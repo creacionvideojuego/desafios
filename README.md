@@ -19,7 +19,8 @@
 </a>
 
 ### Resultado
-![image](https://github.com/user-attachments/assets/6e29e0e3-eae6-4348-9c96-8b86c26d6840)
+![image](https://github.com/user-attachments/assets/1e00c526-5896-4efc-9b24-2e538cbef1aa)
+
 
 
 ### Evidencia de autoría
