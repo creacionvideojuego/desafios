@@ -7,7 +7,10 @@
 ### *TABLA DE CONTENIDO*
 - [01: Prototipo 1.](#01-Prototipo-1)
 - [02: Prototipo 2.](#02-Prototipo-2)
-- [03: Desafío 1.](#03-Desafío-1)
+- [03: Desafío 1.](#03-Desafio-2)
+- [04: Prototipo 3.](#04-Prototipo-3)
+- [05: Prototipo 4.](#04-Prototipo-4)
+- [06: Prototipo 5.](#04-Prototipo-5)
 
 ## 01: Prototipo 1.
 ### Link del proyecto
