@@ -38,7 +38,7 @@
 
 
 ### Evidencia de autoría
-<a href="[Prototipo_2.pdf](https://github.com/user-attachments/files/17891733/Prototipo_2.pdf)">
+<a href="https://github.com/user-attachments/files/17891733/Prototipo_2.pdf">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" alt="PDF" width="30"/>
 </a>
 
