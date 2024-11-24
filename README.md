@@ -7,10 +7,11 @@
 ### *TABLA DE CONTENIDO*
 - [01: Prototipo 1.](#01-Prototipo-1)
 - [02: Prototipo 2.](#02-Prototipo-2)
-- [03: Desafío 1.](#03-Desafio-2)
+- [03: Desafío 2.](#03-Desafio-2)
 - [04: Prototipo 3.](#04-Prototipo-3)
-- [05: Prototipo 4.](#04-Prototipo-4)
-- [06: Prototipo 5.](#04-Prototipo-5)
+- [05: Prototipo 4.](#05-Prototipo-4)
+- [06: Prototipo 5.](#06-Prototipo-5)
+- [07: Desaío 3.](#07-Prototipo-5)
 
 ## 01: Prototipo 1.
 ### Link del proyecto
@@ -33,11 +34,11 @@
 </a>
 
 ### Resultado
-![image](https://github.com/user-attachments/assets/e7230459-f162-451b-a677-60de80c8b9f5)
+![image](https://github.com/user-attachments/assets/f06c2957-357f-4ef1-a0cf-acc871a64603)
 
 
 ### Evidencia de autoría
-<a href="https://github.com/user-attachments/files/17336805/Evidencia.Prototipo2.pdf">
+<a href="[Prototipo_2.pdf](https://github.com/user-attachments/files/17891733/Prototipo_2.pdf)">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" alt="PDF" width="30"/>
 </a>
 
@@ -57,7 +58,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" alt="PDF" width="30"/>
 </a>
 
-## 04: Prototipo 4.
+## 04: Prototipo 3.
 ### Link del proyecto
 <a href="https://github.com/creacionvideojuego/desafios/blob/main/prototipo_4.unitypackage">
     <img src="https://cdn-icons-png.flaticon.com/128/733/733553.png" alt="GitHub" width="40"/>
@@ -73,7 +74,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" alt="PDF" width="30"/>
 </a>
 
-## 05: Prototipo 5.
+## 05: Prototipo 4.
 ### Link del proyecto
 <a href="https://github.com/creacionvideojuego/desafios/blob/main/prototipo_5.unitypackage">
     <img src="https://cdn-icons-png.flaticon.com/128/733/733553.png" alt="GitHub" width="40"/>
@@ -88,7 +89,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" alt="PDF" width="30"/>
 </a>
 
-## 06: Desafío 1.
+## 06: Prototipo 5.
 ### Link del proyecto
 <a href="https://github.com/JMSASanchezUwU/CreacionDeVideoJuegos/blob/main/challenge1.unitypackage">
     <img src="https://cdn-icons-png.flaticon.com/128/733/733553.png" alt="GitHub" width="40"/>
