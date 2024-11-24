@@ -65,12 +65,13 @@
 </a>
 
 ### Resultado
-![image](https://github.com/user-attachments/assets/d61ff6ab-68c7-47f2-ac20-596ff39ac8b3)
+![image](https://github.com/user-attachments/assets/3e120dbe-3348-466e-ad80-b8a83ee988da)
+
 
 
 
 ### Evidencia de autoría
-<a href="https://github.com/user-attachments/files/17807692/Prototipo.4.jmsa.pdf">
+<a href="https://github.com/user-attachments/files/17891748/Prototipo_3.pdf">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" alt="PDF" width="30"/>
 </a>
 
@@ -81,11 +82,12 @@
 </a>
 
 ### Resultado
-![image](https://github.com/user-attachments/assets/e7230459-f162-451b-a677-60de80c8b9f5)
+![image](https://github.com/user-attachments/assets/9d7d0e5b-655b-4fe3-8141-9a846ebbaf94)
+
 
 
 ### Evidencia de autoría
-<a href="https://github.com/user-attachments/files/17807722/Prototipo.5.jmsa.pdf">
+<a href="https://github.com/user-attachments/files/17891760/Prototipo_4.pdf">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" alt="PDF" width="30"/>
 </a>
 
@@ -96,7 +98,13 @@
 </a>
 
 ### Resultado
-![image](https://github.com/user-attachments/assets/209514a2-0881-42fd-a38c-700a9221f4d9)
+![image](https://github.com/user-attachments/assets/6d6c36e8-d603-4123-abe9-453381ce8ba2)
+
+
+### Evidencia de autoría
+<a href="https://github.com/user-attachments/files/17891769/prototipo_5.pdf">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" alt="PDF" width="30"/>
+</a>
 
 ## 07: Desafío 2.
 ### Link del proyecto
