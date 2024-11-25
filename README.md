@@ -11,8 +11,8 @@
 - [04: Prototipo 3.](#04-Prototipo-3)
 - [05: Prototipo 4.](#05-Prototipo-4)
 - [06: Prototipo 5.](#06-Prototipo-5)
-- [07: Desaío 3.](#07-Desafio-3)
-- [08: Desaío 4.](#08-Desafio-4)
+- [07: Desafío 3.](#07-Desafio-3)
+- [08: Desafío 4.](#08-Desafio-4)
 
 ## 01: Prototipo 1.
 ### Link del proyecto
