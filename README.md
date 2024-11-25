@@ -43,21 +43,17 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" alt="PDF" width="30"/>
 </a>
 
-## 03: Prototipo 3.
+## 03: Desafío 2.
 ### Link del proyecto
 <a href="https://github.com/creacionvideojuego/desafios/blob/main/prototipo_3.unitypackage">
     <img src="https://cdn-icons-png.flaticon.com/128/733/733553.png" alt="GitHub" width="40"/>
 </a>
 
 ### Resultado
-![image](https://github.com/user-attachments/assets/d31384be-70c1-4a2b-a013-65b154cc142e)
-
-
+![image](https://github.com/user-attachments/assets/6a43f4e3-f3ad-4f9c-9b34-739c9fbc95ce)
 
 ### Evidencia de autoría
-<a href="https://github.com/user-attachments/files/17807714/Prototipo.3.jmsa.pdf">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" alt="PDF" width="30"/>
-</a>
+(Evidencia guardada en el pdf de prototipo 2)
 
 ## 04: Prototipo 3.
 ### Link del proyecto
