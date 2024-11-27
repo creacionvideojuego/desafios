@@ -79,7 +79,8 @@
 </a>
 
 ### Resultado
-![image](https://github.com/user-attachments/assets/9d7d0e5b-655b-4fe3-8141-9a846ebbaf94)
+![image](https://github.com/user-attachments/assets/ebdfbb92-3dfb-4ed0-8c47-dc8246110b56)
+
 
 
 
@@ -90,12 +91,13 @@
 
 ## 06: Prototipo 5.
 ### Link del proyecto
-<a href="https://github.com/JMSASanchezUwU/CreacionDeVideoJuegos/blob/main/challenge1.unitypackage">
+<a href="https://github.com/creacionvideojuego/desafios/blob/main/prototipo_5.unitypackage">
     <img src="https://cdn-icons-png.flaticon.com/128/733/733553.png" alt="GitHub" width="40"/>
 </a>
 
 ### Resultado
-![image](https://github.com/user-attachments/assets/6d6c36e8-d603-4123-abe9-453381ce8ba2)
+![image](https://github.com/user-attachments/assets/45d3565c-a334-4a50-a9bc-5fd17595ea20)
+
 
 
 ### Evidencia de autoría
