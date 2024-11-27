@@ -57,7 +57,7 @@
 
 ## 04: Prototipo 3.
 ### Link del proyecto
-<a href="https://github.com/creacionvideojuego/desafios/blob/main/prototipo_4.unitypackage">
+<a href="https://github.com/creacionvideojuego/desafios/blob/main/prototipo_3.unitypackage">
     <img src="https://cdn-icons-png.flaticon.com/128/733/733553.png" alt="GitHub" width="40"/>
 </a>
 
@@ -74,7 +74,7 @@
 
 ## 05: Prototipo 4.
 ### Link del proyecto
-<a href="https://github.com/creacionvideojuego/desafios/blob/main/prototipo_5.unitypackage">
+<a href="https://github.com/creacionvideojuego/desafios/blob/main/prototipo_4.unitypackage">
     <img src="https://cdn-icons-png.flaticon.com/128/733/733553.png" alt="GitHub" width="40"/>
 </a>
 
@@ -85,7 +85,7 @@
 
 
 ### Evidencia de autoría
-<a href="https://github.com/user-attachments/files/17891760/Prototipo_4.pdf">
+<a href="https://github.com/user-attachments/files/17936527/Prototipo_4.pdf">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" alt="PDF" width="30"/>
 </a>
 
@@ -101,7 +101,7 @@
 
 
 ### Evidencia de autoría
-<a href="https://github.com/user-attachments/files/17891769/prototipo_5.pdf">
+<a href="https://github.com/user-attachments/files/17936562/prototipo_5.pdf">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" alt="PDF" width="30"/>
 </a>
 
